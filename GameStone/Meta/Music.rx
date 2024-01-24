@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<radio>
+  <tape name="Avalanche" loop="false" source="Avalanche.ogg"/>
+  <tape name="Chase1" loop="true" source="Chase1.ogg"/>
+  <tape name="Chase2" loop="true" source="Chase2.ogg"/>
+  <tape name="Collapse" loop="false" source="Collapse.ogg"/>
+  <tape name="Credits" loop="true" source="Credits.ogg"/>
+  <tape name="Dancing" loop="true" source="Dancing.ogg"/>
+  <tape name="Fireplace" loop="true" source="Fireplace.ogg"/>
+  <tape name="GameOver" loop="true" source="GameOver.ogg"/>
+  <tape name="Introduction" loop="true" source="Introduction.ogg"/>
+  <tape name="Mansion" loop="true" source="Mansion.ogg"/>
+  <tape name="Plow" loop="false" source="Plow.ogg"/>
+  <tape name="Shock" loop="true" source="Shock.ogg"/>
+  <tape name="Sputter" loop="true" source="Sputter.ogg"/>
+  <tape name="Stevens" loop="true" source="Stevens.ogg"/>
+  <tape name="Storm" loop="true" source="Storm.ogg"/>
+  <tape name="Surprise" loop="false" source="Surprise.ogg"/>
+  <tape name="Title" loop="true" source="Title.ogg"/>
+</radio>

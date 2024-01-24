@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriteset>
+  <images>
+    <image name="Transparent" texsource="Transparent.png" texwidth="1" texheight="1" tilewidth="64" tileheight="64" />
+  </images>
+  <animations>
+    <animation name="Default" start="0" end="0" speed="15" />
+  </animations>
+  <collisions coords="relative">
+    <collision name="MainMenuNewGame" type="1" x="0" y="0" z="0" width="248" height="64" depth="32" />
+    <collision name="MainMenuContinue" type="1" x="0" y="0" z="0" width="248" height="64" depth="32" />
+    <collision name="MainMenuQuit" type="1" x="0" y="0" z="0" width="156" height="50" depth="32" />
+    <collision name="MainMenuEasy" type="1" x="0" y="0" z="0" width="99" height="57" depth="32" />
+    <collision name="MainMenuHard" type="1" x="0" y="0" z="0" width="106" height="62" depth="32" />
+    <collision name="GameInventory" type="1" x="0" y="0" z="0" width="312" height="40" depth="32" />
+    <collision name="GameSave" type="1" x="0" y="0" z="0" width="50" height="28" depth="32" />
+    <collision name="GameQuit" type="1" x="0" y="0" z="0" width="50" height="28" depth="32" />
+  </collisions>
+  <sprites coords="screen">
+    <sprite name="ButtonMainMenuNewGame" image="Transparent" x="20" y="248" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="MainMenuNewGame" />
+    </sprite>
+    <sprite name="ButtonMainMenuContinue" image="Transparent" x="20" y="356" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="MainMenuContinue" />
+    </sprite>
+    <sprite name="ButtonMainMenuQuit" image="Transparent" x="20" y="462" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="MainMenuQuit" />
+    </sprite>
+    <sprite name="ButtonMainMenuEasy" image="Transparent" x="24" y="310" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="MainMenuEasy" />
+    </sprite>
+    <sprite name="ButtonMainMenuHard" image="Transparent" x="151" y="313" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="MainMenuHard" />
+    </sprite>
+    <sprite name="ButtonGameInventory" image="Transparent" x="90" y="454" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="GameInventory" />
+    </sprite>
+    <sprite name="ButtonGameSave" image="Transparent" x="564" y="434" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="GameSave" />
+    </sprite>
+    <sprite name="ButtonGameQuit" image="Transparent" x="564" y="464" z="-1" visible="0" animating="0" looping="0">
+      <animation name="Default" />
+      <collision name="GameQuit" />
+    </sprite>
+  </sprites>
+</spriteset>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite texwidth="5" texheight="4" tilewidth="103" tileheight="95" texsource="Objects.png">
+  <animations>
+    <animation name="Bucket" start="0" end="0"/>
+    <animation name="Crowbar" start="1" end="1"/>
+    <animation name="Hanger" start="2" end="2"/>
+    <animation name="Thinner" start="3" end="3"/>
+    <animation name="Opener" start="4" end="4"/>
+    <animation name="Knob" start="5" end="5"/>
+    <animation name="Gas" start="6" end="6"/>
+    <animation name="Pins" start="7" end="7"/>
+    <animation name="Locket1" start="8" end="8"/>
+    <animation name="Locket2" start="9" end="9"/>
+    <animation name="Dynamite" start="10" end="10"/>
+    <animation name="Matches" start="11" end="11"/>
+    <animation name="Bible" start="12" end="12"/>
+    <animation name="Axe" start="13" end="13"/>
+    <animation name="MusicBoxKeys" start="14" end="14"/>
+    <animation name="CourtyardKey" start="15" end="15"/>
+    <animation name="BedroomHallKey" start="16" end="16"/>
+    <animation name="BathroomKey" start="17" end="17"/>
+    <animation name="GarageKey" start="18" end="18"/>
+    <animation name="StudyKey" start="19" end="19"/>
+  </animations>
+  <collisions>
+    <collision type="1" x="0" y="0" z="0" width="103" height="95" depth="100"/>
+  </collisions>
+</sprite>

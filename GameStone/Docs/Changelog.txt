@@ -1,0 +1,11 @@
+## Changelog
+
+# Upcoming
+(11/06/2009)
+- Updated metadata to conform to new Gamestone sprite parameters
+- Updated sprite animation changes
+- Created first spriteset test
+
+# Version 1.0 (10/20/2009)
+- Initial version of the game
+- Created for a student project

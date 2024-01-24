@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite texwidth="1" texheight="1" tilewidth="640" tileheight="480" texsource="HouseBedHall.png">
+  <animations>
+    <animation name="Default" start="0" end="0"/>
+  </animations>
+  <collisions>
+    <collision type="0" x="0" y="0" z="0" width="0" height="0" depth="0"/>
+  </collisions>
+</sprite>

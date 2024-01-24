@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<radio>
+  <tape name="Click" loop="false" source="Click.ogg"/>
+  <tape name="Door" loop="false" source="Door.ogg"/>
+  <tape name="Extinguish" loop="false" source="Extinguish.ogg"/>
+  <tape name="Gate" loop="false" source="Gate.ogg"/>
+  <tape name="Gunshot" loop="false" source="Gunshot.ogg"/>
+  <tape name="Knives" loop="true" source="Knives.ogg"/>
+</radio>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sprite texwidth="2" texheight="4" tilewidth="32" tileheight="38" texsource="NewCursor.png">
+  <animations>
+    <animation name="Normal" start="0" end="0"/>
+    <animation name="NormalHeld" start="1" end="1"/>
+    <animation name="Inspectable" start="2" end="2"/>
+    <animation name="InspectableHeld" start="3" end="3"/>
+    <animation name="Walkable" start="4" end="4"/>
+    <animation name="WalkableHeld" start="5" end="5"/>
+    <animation name="Hideable" start="6" end="6"/>
+    <animation name="HideableHeld" start="7" end="7"/>
+  </animations>
+  <collisions>
+    <collision type="1" x="0" y="0" z="0" width="32" height="38" depth="32"/>
+  </collisions>
+</sprite>
