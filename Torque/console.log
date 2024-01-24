@@ -1,0 +1,1819 @@
+//-------------------------- 11/12/2009 -- 20:52:09 -----
+System & Processor Information:
+  Mac OS X 10.5.8
+  2.0 GB RAM
+   2 GHz unknown Mac model (2 cores)
+    x86 Architecture
+    MMX detected
+    SSE detected
+ 
+Math Init:
+   Installing Standard C extensions
+   Installing Assembly extensions
+   Installing SSE extensions
+ 
+Input Init:
+
+Video Init:
+Dumping list of pixel formats:
+ ------------------------------------------------------------
+Describing pixel format 0x824be8
+         ALL_RENDERERS    0
+           BUFFER_SIZE   32
+                 LEVEL    0
+                  RGBA    1
+          DOUBLEBUFFER    1
+                STEREO    0
+           AUX_BUFFERS    0
+            GREEN_SIZE    8
+              RED_SIZE    8
+             BLUE_SIZE    8
+            ALPHA_SIZE    8
+            DEPTH_SIZE    0
+          STENCIL_SIZE    0
+        ACCUM_RED_SIZE    0
+      ACCUM_GREEN_SIZE    0
+       ACCUM_BLUE_SIZE    0
+      ACCUM_ALPHA_SIZE    0
+            PIXEL_SIZE   32
+        MINIMUM_POLICY    0
+        MAXIMUM_POLICY    0
+             OFFSCREEN    0
+            FULLSCREEN    0
+    SAMPLE_BUFFERS_ARB    0
+           SAMPLES_ARB    0
+     AUX_DEPTH_STENCIL    0
+           COLOR_FLOAT    0
+           MULTISAMPLE    0
+           SUPERSAMPLE    0
+          SAMPLE_ALPHA    0
+ ------------------------------------------------------------
+ ------------------------------------------------------------
+Describing pixel format 0x824bec
+         ALL_RENDERERS    0
+           BUFFER_SIZE   32
+                 LEVEL    0
+                  RGBA    1
+          DOUBLEBUFFER    1
+                STEREO    0
+           AUX_BUFFERS    0
+            GREEN_SIZE    8
+              RED_SIZE    8
+             BLUE_SIZE    8
+            ALPHA_SIZE    8
+            DEPTH_SIZE    0
+          STENCIL_SIZE    0
+        ACCUM_RED_SIZE    0
+      ACCUM_GREEN_SIZE    0
+       ACCUM_BLUE_SIZE    0
+      ACCUM_ALPHA_SIZE    0
+            PIXEL_SIZE   32
+        MINIMUM_POLICY    0
+        MAXIMUM_POLICY    0
+             OFFSCREEN    0
+            FULLSCREEN    0
+    SAMPLE_BUFFERS_ARB    0
+           SAMPLES_ARB    0
+     AUX_DEPTH_STENCIL    0
+           COLOR_FLOAT    0
+           MULTISAMPLE    0
+           SUPERSAMPLE    0
+          SAMPLE_ALPHA    0
+ ------------------------------------------------------------
+  active displays = 0x727080  CGDisplayID = 0x2b0c36c4
+using display 0x727080
+   Accelerated OpenGL display device detected.
+
+Initializing chunk mappings...
+   o 'TEXT' maps to TextChunk
+   o 'SCHK' maps to UnknownChunk
+   o 'SCHK' maps to SimChunk
+--------- Loading MODS ---------
+Compiling my.game/main.cs...
+creating path my.game/main.cs.dso
+creating path my.game/
+Loading compiled script my.game/main.cs.
+Compiling common/main.cs...
+creating path common/main.cs.dso
+creating path common/
+Loading compiled script common/main.cs.
+Compiling my.game/client/defaults.cs...
+creating path my.game/client/defaults.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/defaults.cs.
+Compiling my.game/server/defaults.cs...
+creating path my.game/server/defaults.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/defaults.cs.
+Missing file: my.game/client/prefs.cs!
+Missing file: my.game/server/prefs.cs!
+Compiling creator/main.cs...
+creating path creator/main.cs.dso
+creating path creator/
+Loading compiled script creator/main.cs.
+Loading compiled script common/main.cs.
+
+--------- Parsing Arguments ---------
+
+--------- Initializing MOD: Common ---------
+Compiling common/client/canvas.cs...
+creating path common/client/canvas.cs.dso
+creating path common/client/
+Loading compiled script common/client/canvas.cs.
+Compiling common/client/audio.cs...
+creating path common/client/audio.cs.dso
+creating path common/client/
+Loading compiled script common/client/audio.cs.
+
+--------- Initializing MOD: FPS Starter Kit ---------
+Compiling my.game/client/init.cs...
+creating path my.game/client/init.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/init.cs.
+Compiling my.game/server/init.cs...
+creating path my.game/server/init.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/init.cs.
+
+--------- Initializing MOD: FPS Starter Kit: Server ---------
+Compiling common/server/audio.cs...
+creating path common/server/audio.cs.dso
+creating path common/server/
+Loading compiled script common/server/audio.cs.
+Compiling common/server/server.cs...
+creating path common/server/server.cs.dso
+creating path common/server/
+Loading compiled script common/server/server.cs.
+Compiling common/server/message.cs...
+creating path common/server/message.cs.dso
+creating path common/server/
+Loading compiled script common/server/message.cs.
+Compiling common/server/commands.cs...
+creating path common/server/commands.cs.dso
+creating path common/server/
+Loading compiled script common/server/commands.cs.
+Compiling common/server/missionInfo.cs...
+creating path common/server/missionInfo.cs.dso
+creating path common/server/
+Loading compiled script common/server/missionInfo.cs.
+Compiling common/server/missionLoad.cs...
+creating path common/server/missionLoad.cs.dso
+creating path common/server/
+Loading compiled script common/server/missionLoad.cs.
+Compiling common/server/missionDownload.cs...
+creating path common/server/missionDownload.cs.dso
+creating path common/server/
+Loading compiled script common/server/missionDownload.cs.
+Compiling common/server/clientConnection.cs...
+creating path common/server/clientConnection.cs.dso
+creating path common/server/
+Loading compiled script common/server/clientConnection.cs.
+Compiling common/server/kickban.cs...
+creating path common/server/kickban.cs.dso
+creating path common/server/
+Loading compiled script common/server/kickban.cs.
+Compiling common/server/game.cs...
+creating path common/server/game.cs.dso
+creating path common/server/
+Loading compiled script common/server/game.cs.
+Compiling my.game/server/commands.cs...
+creating path my.game/server/commands.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/commands.cs.
+Compiling my.game/server/centerPrint.cs...
+creating path my.game/server/centerPrint.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/centerPrint.cs.
+Compiling my.game/server/game.cs...
+creating path my.game/server/game.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/game.cs.
+
+--------- Initializing MOD: FPS Starter Kit: Client ---------
+Compiling my.game/client/customProfiles.cs...
+creating path my.game/client/customProfiles.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/customProfiles.cs.
+Compiling common/client/message.cs...
+creating path common/client/message.cs.dso
+creating path common/client/
+Loading compiled script common/client/message.cs.
+Compiling common/client/mission.cs...
+creating path common/client/mission.cs.dso
+creating path common/client/
+Loading compiled script common/client/mission.cs.
+Compiling common/client/missionDownload.cs...
+creating path common/client/missionDownload.cs.dso
+creating path common/client/
+Loading compiled script common/client/missionDownload.cs.
+Compiling common/client/actionMap.cs...
+creating path common/client/actionMap.cs.dso
+creating path common/client/
+Loading compiled script common/client/actionMap.cs.
+Activating the OpenGL display device...
+ OpenGLDevice activating...
+OpenGL driver information:
+  Vendor: NVIDIA Corporation
+  Renderer: NVIDIA GeForce 9400 OpenGL Engine
+  Version: 2.0 NVIDIA-1.5.48
+OpenGL Init: Enabled Extensions
+  ARB_multitexture (Max Texture Units: 4)
+  EXT_blend_color
+  EXT_blend_minmax
+  EXT_compiled_vertex_array
+  EXT_texture_env_combine
+  EXT_packed_pixels
+  EXT_fog_coord
+  ARB_texture_compression
+  EXT_texture_compression_s3tc
+  (ARB|EXT)_texture_env_add
+  EXT_texture_filter_anisotropic (Max anisotropy: 16.000000)
+  Vertical Sync
+  ATI_FSAA
+OpenGL Init: Disabled Extensions
+  EXT_paletted_texture
+  NV_vertex_array_range
+  3DFX_texture_compression_FXT1
+
+ set screen mode 800 x 600 x 32, windowed, force it, dont repaint
+Cleaning up the display device...
+Killing the texture manager...
+Clearing the current AGL context...
+Clearing the current drawable...
+Deleting the rendering context...
+>> Attempting to change display settings to windowed 800x600x32...
+using display 0x727080
+Set up AGL windowed support
+Cleared gl buffers
+>>Number of FSAA samples is now [1].
+Resurrecting the texture manager...
+Compiling common/ui/defaultProfiles.cs...
+creating path common/ui/defaultProfiles.cs.dso
+creating path common/ui/
+Loading compiled script common/ui/defaultProfiles.cs.
+Compiling common/ui/ConsoleDlg.gui...
+creating path common/ui/ConsoleDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/ConsoleDlg.gui.
+Compiling common/ui/LoadFileDlg.gui...
+creating path common/ui/LoadFileDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/LoadFileDlg.gui.
+Compiling common/ui/ColorPickerDlg.gui...
+creating path common/ui/ColorPickerDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/ColorPickerDlg.gui.
+Compiling common/ui/SaveFileDlg.gui...
+creating path common/ui/SaveFileDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/SaveFileDlg.gui.
+Compiling common/ui/MessageBoxOkDlg.gui...
+creating path common/ui/MessageBoxOkDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/MessageBoxOkDlg.gui.
+Compiling common/ui/MessageBoxYesNoDlg.gui...
+creating path common/ui/MessageBoxYesNoDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/MessageBoxYesNoDlg.gui.
+Compiling common/ui/MessageBoxOKCancelDlg.gui...
+creating path common/ui/MessageBoxOKCancelDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/MessageBoxOKCancelDlg.gui.
+Compiling common/ui/MessagePopupDlg.gui...
+creating path common/ui/MessagePopupDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/MessagePopupDlg.gui.
+Compiling common/ui/HelpDlg.gui...
+creating path common/ui/HelpDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/HelpDlg.gui.
+Compiling common/ui/RecordingsDlg.gui...
+creating path common/ui/RecordingsDlg.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/RecordingsDlg.gui.
+Compiling common/ui/NetGraphGui.gui...
+creating path common/ui/NetGraphGui.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/NetGraphGui.gui.
+Compiling common/client/metrics.cs...
+creating path common/client/metrics.cs.dso
+creating path common/client/
+Loading compiled script common/client/metrics.cs.
+Compiling common/ui/FrameOverlayGui.gui...
+creating path common/ui/FrameOverlayGui.gui.dso
+creating path common/ui/
+Loading compiled script common/ui/FrameOverlayGui.gui.
+Compiling common/client/messageBox.cs...
+creating path common/client/messageBox.cs.dso
+creating path common/client/
+Loading compiled script common/client/messageBox.cs.
+Compiling common/client/screenshot.cs...
+creating path common/client/screenshot.cs.dso
+creating path common/client/
+Loading compiled script common/client/screenshot.cs.
+Compiling common/client/cursor.cs...
+creating path common/client/cursor.cs.dso
+creating path common/client/
+Loading compiled script common/client/cursor.cs.
+Compiling common/client/help.cs...
+creating path common/client/help.cs.dso
+creating path common/client/
+Loading compiled script common/client/help.cs.
+Compiling common/client/recordings.cs...
+creating path common/client/recordings.cs.dso
+creating path common/client/
+Loading compiled script common/client/recordings.cs.
+
+OpenAL Driver Init:
+OpenAL
+   Vendor: Any
+   Version: OpenAL 1.2
+   Renderer: Software
+   Extensions: 
+
+Compiling my.game/client/audioProfiles.cs...
+creating path my.game/client/audioProfiles.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/audioProfiles.cs.
+Compiling my.game/client/defaultGameProfiles.cs...
+creating path my.game/client/defaultGameProfiles.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/defaultGameProfiles.cs.
+Compiling my.game/client/PlayGui.gui...
+creating path my.game/client/PlayGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/PlayGui.gui.
+Compiling my.game/client/mainMenuGui.gui...
+creating path my.game/client/mainMenuGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/mainMenuGui.gui.
+Compiling my.game/client/aboutDlg.gui...
+creating path my.game/client/aboutDlg.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/aboutDlg.gui.
+Compiling my.game/client/startMissionGui.gui...
+creating path my.game/client/startMissionGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/startMissionGui.gui.
+Compiling my.game/client/joinServerGui.gui...
+creating path my.game/client/joinServerGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/joinServerGui.gui.
+Compiling my.game/client/loadingGui.gui...
+creating path my.game/client/loadingGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/loadingGui.gui.
+Compiling my.game/client/endGameGui.gui...
+creating path my.game/client/endGameGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/endGameGui.gui.
+Compiling my.game/client/optionsDlg.gui...
+creating path my.game/client/optionsDlg.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/optionsDlg.gui.
+Compiling my.game/client/remapDlg.gui...
+creating path my.game/client/remapDlg.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/remapDlg.gui.
+Compiling my.game/client/StartupGui.gui...
+creating path my.game/client/StartupGui.gui.dso
+creating path my.game/client/
+Loading compiled script my.game/client/StartupGui.gui.
+Compiling my.game/client/client.cs...
+creating path my.game/client/client.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/client.cs.
+Compiling my.game/client/game.cs...
+creating path my.game/client/game.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/game.cs.
+Compiling my.game/client/missionDownload.cs...
+creating path my.game/client/missionDownload.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/missionDownload.cs.
+Compiling my.game/client/serverConnection.cs...
+creating path my.game/client/serverConnection.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/serverConnection.cs.
+Compiling my.game/client/playerList.cs...
+creating path my.game/client/playerList.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/playerList.cs.
+Compiling my.game/client/loadingGui.cs...
+creating path my.game/client/loadingGui.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/loadingGui.cs.
+Compiling my.game/client/optionsDlg.cs...
+creating path my.game/client/optionsDlg.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/optionsDlg.cs.
+Compiling my.game/client/chatHud.cs...
+creating path my.game/client/chatHud.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/chatHud.cs.
+Compiling my.game/client/messageHud.cs...
+creating path my.game/client/messageHud.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/messageHud.cs.
+Compiling my.game/client/playGui.cs...
+creating path my.game/client/playGui.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/playGui.cs.
+Compiling my.game/client/centerPrint.cs...
+creating path my.game/client/centerPrint.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/centerPrint.cs.
+Compiling my.game/client/vehiclePassengerMap.cs...
+creating path my.game/client/vehiclePassengerMap.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/vehiclePassengerMap.cs.
+Compiling my.game/client/vehicleDriverMap.cs...
+creating path my.game/client/vehicleDriverMap.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/vehicleDriverMap.cs.
+Compiling my.game/client/default.bind.cs...
+creating path my.game/client/default.bind.cs.dso
+creating path my.game/client/
+Loading compiled script my.game/client/default.bind.cs.
+Missing file: my.game/client/config.cs!
+Binding server port to default IP
+UDP initialized on port 0
+
+--------- Initializing: Torque Creator ---------
+Compiling creator/editor/editor.cs...
+creating path creator/editor/editor.cs.dso
+creating path creator/editor/
+Loading compiled script creator/editor/editor.cs.
+Compiling creator/editor/particleEditor.cs...
+creating path creator/editor/particleEditor.cs.dso
+creating path creator/editor/
+Loading compiled script creator/editor/particleEditor.cs.
+Compiling creator/scripts/scriptDoc.cs...
+creating path creator/scripts/scriptDoc.cs.dso
+creating path creator/scripts/
+Loading compiled script creator/scripts/scriptDoc.cs.
+Compiling creator/ui/creatorProfiles.cs...
+creating path creator/ui/creatorProfiles.cs.dso
+creating path creator/ui/
+Loading compiled script creator/ui/creatorProfiles.cs.
+Compiling creator/ui/InspectDlg.gui...
+creating path creator/ui/InspectDlg.gui.dso
+creating path creator/ui/
+Loading compiled script creator/ui/InspectDlg.gui.
+Compiling creator/ui/GuiEditorGui.gui...
+creating path creator/ui/GuiEditorGui.gui.dso
+creating path creator/ui/
+Loading compiled script creator/ui/GuiEditorGui.gui.
+Compiling creator/ui/lightEditor.gui...
+creating path creator/ui/lightEditor.gui.dso
+creating path creator/ui/
+creator/ui/lightEditor.gui (2140): string always evaluates to 0.
+creator/ui/lightEditor.gui (2157): string always evaluates to 0.
+Loading compiled script creator/ui/lightEditor.gui.
+Compiling creator/ui/lightEditorNewDB.gui...
+creating path creator/ui/lightEditorNewDB.gui.dso
+creating path creator/ui/
+Loading compiled script creator/ui/lightEditorNewDB.gui.
+Engine initialized...
+*** Load Main Menu
+Exporting server prefs...
+creating path common/prefs.cs
+creating path common/
+Compiling common/server/lightingSystem.cs...
+creating path common/server/lightingSystem.cs.dso
+creating path common/server/
+Loading compiled script common/server/lightingSystem.cs.
+
+//-----------------------------------------------
+
+Loading light datablocks from: common/lighting/lights/*.dso
+
+Loading light datablocks from: common/lighting/lights/*.cs
+Compiling common/lighting/lights/sgTowerFireLightDataBlock.cs...
+creating path common/lighting/lights/sgTowerFireLightDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgTowerFireLightDataBlock.cs.
+Compiling common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs...
+creating path common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgTempleWindowStaticPSDataBlock.cs.
+Compiling common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs...
+creating path common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgTempleTorchStaticPSDataBlock.cs.
+Compiling common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs...
+creating path common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgTempleSmallWindowStaticPSDataBlock.cs.
+Compiling common/lighting/lights/sgSpotSwingStaticDataBlock.cs...
+creating path common/lighting/lights/sgSpotSwingStaticDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgSpotSwingStaticDataBlock.cs.
+Compiling common/lighting/lights/sgSpotDataBlock.cs...
+creating path common/lighting/lights/sgSpotDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgSpotDataBlock.cs.
+Compiling common/lighting/lights/sgSpot2DataBlock.cs...
+creating path common/lighting/lights/sgSpot2DataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgSpot2DataBlock.cs.
+Compiling common/lighting/lights/sgRedLightDataBlock.cs...
+creating path common/lighting/lights/sgRedLightDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgRedLightDataBlock.cs.
+Compiling common/lighting/lights/sgMountLight.cs...
+creating path common/lighting/lights/sgMountLight.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgMountLight.cs.
+Compiling common/lighting/lights/sgLanternPSDataBlock.cs...
+creating path common/lighting/lights/sgLanternPSDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgLanternPSDataBlock.cs.
+Compiling common/lighting/lights/sgGooDataBlock.cs...
+creating path common/lighting/lights/sgGooDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgGooDataBlock.cs.
+Compiling common/lighting/lights/sgFirePitStaticPSDataBlock.cs...
+creating path common/lighting/lights/sgFirePitStaticPSDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgFirePitStaticPSDataBlock.cs.
+Compiling common/lighting/lights/sgFirePitPSDataBlock.cs...
+creating path common/lighting/lights/sgFirePitPSDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgFirePitPSDataBlock.cs.
+Compiling common/lighting/lights/sgDynamicFireDataBlock.cs...
+creating path common/lighting/lights/sgDynamicFireDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgDynamicFireDataBlock.cs.
+Compiling common/lighting/lights/sgDefaultLightDataBlock.cs...
+creating path common/lighting/lights/sgDefaultLightDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgDefaultLightDataBlock.cs.
+Compiling common/lighting/lights/sgBlueLightDataBlock.cs...
+creating path common/lighting/lights/sgBlueLightDataBlock.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/sgBlueLightDataBlock.cs.
+Compiling common/lighting/lights/CottageLight.cs...
+creating path common/lighting/lights/CottageLight.cs.dso
+creating path common/lighting/lights/
+Loading compiled script common/lighting/lights/CottageLight.cs.
+Loading complete.
+//-----------------------------------------------
+
+
+//-----------------------------------------------
+
+Loading light datablocks from: common/lighting/filters/*.dso
+
+Loading light datablocks from: common/lighting/filters/*.cs
+Compiling common/lighting/filters/test.cs...
+creating path common/lighting/filters/test.cs.dso
+creating path common/lighting/filters/
+Loading compiled script common/lighting/filters/test.cs.
+Loading complete.
+//-----------------------------------------------
+
+Compiling my.game/server/audioProfiles.cs...
+creating path my.game/server/audioProfiles.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/audioProfiles.cs.
+Compiling my.game/server/envAudioProfiles.cs...
+creating path my.game/server/envAudioProfiles.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/envAudioProfiles.cs.
+Compiling my.game/server/camera.cs...
+creating path my.game/server/camera.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/camera.cs.
+Compiling my.game/server/markers.cs...
+creating path my.game/server/markers.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/markers.cs.
+Compiling my.game/server/triggers.cs...
+creating path my.game/server/triggers.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/triggers.cs.
+Compiling my.game/server/shapeBase.cs...
+creating path my.game/server/shapeBase.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/shapeBase.cs.
+Compiling my.game/server/item.cs...
+creating path my.game/server/item.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/item.cs.
+Compiling my.game/server/environment.cs...
+creating path my.game/server/environment.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/environment.cs.
+Compiling my.game/server/staticShape.cs...
+creating path my.game/server/staticShape.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/staticShape.cs.
+Compiling my.game/server/radiusDamage.cs...
+creating path my.game/server/radiusDamage.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/radiusDamage.cs.
+Loading compiled script my.game/server/environment.cs.
+Compiling my.game/server/player.cs...
+creating path my.game/server/player.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/player.cs.
+Compiling my.game/data/shapes/player/player.cs...
+creating path my.game/data/shapes/player/player.cs.dso
+creating path my.game/data/shapes/player/
+Loading compiled script my.game/data/shapes/player/player.cs.
+Validation required for shape: my.game/data/shapes/player/player.dts
+Compiling my.game/server/chimneyfire.cs...
+creating path my.game/server/chimneyfire.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/chimneyfire.cs.
+ParticleEmitterData(ChimneySmokeEmitter) velocityVariance > ejectionVelocity
+Compiling my.game/server/aiPlayer.cs...
+creating path my.game/server/aiPlayer.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/aiPlayer.cs.
+Compiling my.game/server/sgExamples.cs...
+creating path my.game/server/sgExamples.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/sgExamples.cs.
+ParticleEmitterData(RealFireBigEmitter) thetaMax > 180.0
+Compiling my.game/server/vehicle.cs...
+creating path my.game/server/vehicle.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/vehicle.cs.
+Compiling my.game/server/car.cs...
+creating path my.game/server/car.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/car.cs.
+Compiling my.game/server/triggers-car.cs...
+creating path my.game/server/triggers-car.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/triggers-car.cs.
+Compiling my.game/server/triggers-door.cs...
+creating path my.game/server/triggers-door.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/triggers-door.cs.
+Compiling my.game/server/triggers-puzzle.cs...
+creating path my.game/server/triggers-puzzle.cs.dso
+creating path my.game/server/
+Loading compiled script my.game/server/triggers-puzzle.cs.
+*** LOADING MISSION: my.game/data/missions/story.mis
+*** Stage 1 load
+*** Stage 2 load
+Executing my.game/data/missions/story.mis.
+*** Mission loaded
+Connect request from: á
+Connection established 1557
+CADD: 1558 local
+*** Sending mission load to client: my.game/data/missions/story.mis
+Mapping string: ServerMessage to index: 0
+Mapping string: MsgConnectionError to index: 1
+Mapping string: MsgLoadInfo to index: 2
+Mapping string: MsgLoadDescripition to index: 3
+Mapping string: MsgLoadInfoDone to index: 4
+Mapping string: MountVehicle to index: 0
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Mapping string: MsgClientJoin to index: 5
+Mapping string: Welcome to the Torque demo app %1. to index: 6
+Mapping string: Ashley Berkovitz to index: 7
+Mapping string: MissionStartPhase1 to index: 8
+*** New Mission: my.game/data/missions/story.mis
+*** Phase 1: Download Datablocks & Targets
+Mapping string: MissionStartPhase1Ack to index: 1
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/player/base.lmale
+Could not locate texture: my.game/data/shapes/player/base.lmale
+Could not locate texture: my.game/data/shapes/player/crossbow
+Could not locate texture: my.game/data/shapes/player/clip
+Validation required for shape: my.game/data/shapes/player/player.dts
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Mapping string: MissionStartPhase2 to index: 9
+*** Phase 2: Download Ghost Objects
+Mapping string: MissionStartPhase2Ack to index: 2
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/lanterns/Mtl
+Sending request for file my.game/data/shapes/lanterns/Mtl
+Sending request for file my.game/data/shapes/lanterns/Mtl.jpg
+Sending request for file my.game/data/shapes/lanterns/Mtl.png
+Sending request for file my.game/data/shapes/lanterns/Mtl.gif
+Sending request for file my.game/data/shapes/lanterns/Mtl.bmp
+Sending request for file my.game/data/shapes/Mtl
+Sending request for file my.game/data/shapes/Mtl.jpg
+Sending request for file my.game/data/shapes/Mtl.png
+Sending request for file my.game/data/shapes/Mtl.gif
+Sending request for file my.game/data/shapes/Mtl.bmp
+Sending request for file my.game/data/Mtl
+Sending request for file my.game/data/Mtl.jpg
+Sending request for file my.game/data/Mtl.png
+Sending request for file my.game/data/Mtl.gif
+Sending request for file my.game/data/Mtl.bmp
+Sending request for file my.game/Mtl
+Sending request for file my.game/Mtl.jpg
+Sending request for file my.game/Mtl.png
+Sending request for file my.game/Mtl.gif
+Sending request for file my.game/Mtl.bmp
+Sending request for file my.game/data/shapes/lanterns/stone
+Sending request for file my.game/data/shapes/lanterns/stone.alpha.jpg
+No such file 'my.game/data/shapes/lanterns/Mtl'.
+No such file 'my.game/data/shapes/lanterns/Mtl.jpg'.
+No such file 'my.game/data/shapes/lanterns/Mtl.png'.
+No such file 'my.game/data/shapes/lanterns/Mtl.gif'.
+No such file 'my.game/data/shapes/lanterns/Mtl.bmp'.
+No such file 'my.game/data/shapes/Mtl'.
+No such file 'my.game/data/shapes/Mtl.jpg'.
+No such file 'my.game/data/shapes/Mtl.png'.
+No such file 'my.game/data/shapes/Mtl.gif'.
+No such file 'my.game/data/shapes/Mtl.bmp'.
+No such file 'my.game/data/Mtl'.
+No such file 'my.game/data/Mtl.jpg'.
+No such file 'my.game/data/Mtl.png'.
+No such file 'my.game/data/Mtl.gif'.
+No such file 'my.game/data/Mtl.bmp'.
+No such file 'my.game/Mtl'.
+No such file 'my.game/Mtl.jpg'.
+No such file 'my.game/Mtl.png'.
+No such file 'my.game/Mtl.gif'.
+No such file 'my.game/Mtl.bmp'.
+No such file 'my.game/data/shapes/lanterns/stone'.
+No such file 'my.game/data/shapes/lanterns/stone.alpha.jpg'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/lanterns/Mtl
+Could not locate texture: my.game/data/shapes/lanterns/Mtl
+Could not locate texture: my.game/data/shapes/lanterns/Mtl
+Sending request for file my.game/data/shapes/lanterns/Mtl
+Sending request for file my.game/data/shapes/lanterns/Mtl.jpg
+Sending request for file my.game/data/shapes/lanterns/Mtl.png
+Sending request for file my.game/data/shapes/lanterns/Mtl.gif
+Sending request for file my.game/data/shapes/lanterns/Mtl.bmp
+Sending request for file my.game/data/shapes/Mtl
+Sending request for file my.game/data/shapes/Mtl.jpg
+Sending request for file my.game/data/shapes/Mtl.png
+Sending request for file my.game/data/shapes/Mtl.gif
+Sending request for file my.game/data/shapes/Mtl.bmp
+Sending request for file my.game/data/Mtl
+Sending request for file my.game/data/Mtl.jpg
+Sending request for file my.game/data/Mtl.png
+Sending request for file my.game/data/Mtl.gif
+Sending request for file my.game/data/Mtl.bmp
+Sending request for file my.game/Mtl
+Sending request for file my.game/Mtl.jpg
+Sending request for file my.game/Mtl.png
+Sending request for file my.game/Mtl.gif
+Sending request for file my.game/Mtl.bmp
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+No such file 'my.game/data/shapes/lanterns/Mtl'.
+No such file 'my.game/data/shapes/lanterns/Mtl.jpg'.
+No such file 'my.game/data/shapes/lanterns/Mtl.png'.
+No such file 'my.game/data/shapes/lanterns/Mtl.gif'.
+No such file 'my.game/data/shapes/lanterns/Mtl.bmp'.
+No such file 'my.game/data/shapes/Mtl'.
+No such file 'my.game/data/shapes/Mtl.jpg'.
+No such file 'my.game/data/shapes/Mtl.png'.
+No such file 'my.game/data/shapes/Mtl.gif'.
+No such file 'my.game/data/shapes/Mtl.bmp'.
+No such file 'my.game/data/Mtl'.
+No such file 'my.game/data/Mtl.jpg'.
+No such file 'my.game/data/Mtl.png'.
+No such file 'my.game/data/Mtl.gif'.
+No such file 'my.game/data/Mtl.bmp'.
+No such file 'my.game/Mtl'.
+No such file 'my.game/Mtl.jpg'.
+No such file 'my.game/Mtl.png'.
+No such file 'my.game/Mtl.gif'.
+No such file 'my.game/Mtl.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/lanterns/Mtl
+Could not locate texture: my.game/data/shapes/lanterns/Mtl
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/RootsNoSnow
+Sending request for file my.game/data/shapes/Winter/RootsNoSnow.jpg
+Sending request for file my.game/data/shapes/Winter/TrunkNoSnow
+Sending request for file my.game/data/shapes/Winter/TrunkNoSnow.jpg
+Sending request for file my.game/data/shapes/Winter/TrunkNoSnowBase
+Sending request for file my.game/data/shapes/Winter/TrunkNoSnowBase.jpg
+Sending request for file my.game/data/shapes/Winter/Branch02_512x512
+Sending request for file my.game/data/shapes/Winter/Branch02_512x512.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/RootsNoSnow'.
+No such file 'my.game/data/shapes/Winter/RootsNoSnow.jpg'.
+No such file 'my.game/data/shapes/Winter/TrunkNoSnow'.
+No such file 'my.game/data/shapes/Winter/TrunkNoSnow.jpg'.
+No such file 'my.game/data/shapes/Winter/TrunkNoSnowBase'.
+No such file 'my.game/data/shapes/Winter/TrunkNoSnowBase.jpg'.
+No such file 'my.game/data/shapes/Winter/Branch02_512x512'.
+No such file 'my.game/data/shapes/Winter/Branch02_512x512.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed
+Sending request for file my.game/data/shapes/Winter/Unnamed.jpg
+Sending request for file my.game/data/shapes/Winter/Unnamed.png
+Sending request for file my.game/data/shapes/Winter/Unnamed.gif
+Sending request for file my.game/data/shapes/Winter/Unnamed.bmp
+Sending request for file my.game/data/shapes/Unnamed
+Sending request for file my.game/data/shapes/Unnamed.jpg
+Sending request for file my.game/data/shapes/Unnamed.png
+Sending request for file my.game/data/shapes/Unnamed.gif
+Sending request for file my.game/data/shapes/Unnamed.bmp
+Sending request for file my.game/data/Unnamed
+Sending request for file my.game/data/Unnamed.jpg
+Sending request for file my.game/data/Unnamed.png
+Sending request for file my.game/data/Unnamed.gif
+Sending request for file my.game/data/Unnamed.bmp
+Sending request for file my.game/Unnamed
+Sending request for file my.game/Unnamed.jpg
+Sending request for file my.game/Unnamed.png
+Sending request for file my.game/Unnamed.gif
+Sending request for file my.game/Unnamed.bmp
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+No such file 'my.game/data/shapes/Winter/Unnamed'.
+No such file 'my.game/data/shapes/Winter/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Winter/Unnamed.png'.
+No such file 'my.game/data/shapes/Winter/Unnamed.gif'.
+No such file 'my.game/data/shapes/Winter/Unnamed.bmp'.
+No such file 'my.game/data/shapes/Unnamed'.
+No such file 'my.game/data/shapes/Unnamed.jpg'.
+No such file 'my.game/data/shapes/Unnamed.png'.
+No such file 'my.game/data/shapes/Unnamed.gif'.
+No such file 'my.game/data/shapes/Unnamed.bmp'.
+No such file 'my.game/data/Unnamed'.
+No such file 'my.game/data/Unnamed.jpg'.
+No such file 'my.game/data/Unnamed.png'.
+No such file 'my.game/data/Unnamed.gif'.
+No such file 'my.game/data/Unnamed.bmp'.
+No such file 'my.game/Unnamed'.
+No such file 'my.game/Unnamed.jpg'.
+No such file 'my.game/Unnamed.png'.
+No such file 'my.game/Unnamed.gif'.
+No such file 'my.game/Unnamed.bmp'.
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Could not locate texture: my.game/data/shapes/Winter/Unnamed
+Ghost Always objects received.
+Mapping string: MissionStartPhase3 to index: 10
+Client Replication Startup has Happened!
+fxFoliageReplicator - Client Foliage Replication Startup is complete.
+*** Phase 3: Mission Lighting
+ Successfully loaded mission lighting file: 'my.game/data/missions/story_6c60061e.ml'
+Mission lighting done
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+my.game/server/commands.cs (14): Unable to find object: '' attempting to call function 'getEyePoint'
+my.game/server/commands.cs (17): Unable to find object: '' attempting to call function 'getEyeVector'
+No object found
+Mapping string: MissionStartPhase3Ack to index: 3
+Mapping string: MissionStart to index: 11
+Mapping string: SyncClock to index: 12
+Could not locate texture: my.game/data/shapes/player/crossbow
+Could not locate texture: my.game/data/shapes/player/clip
+No object found
+*** Initial Control Object
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+Found a vehicle: 1540
+This vehicle has 1 mount points.
+Mounting vehicle in seat 0
+Mapping string: PopActionMap to index: 13
+Popping action map moveMap
+Mapping string: PushActionMap to index: 14
+Pushing action map vehicleDriverMap
+Mapping string: HideCommandMenuServer to index: 15
+No object found
+clientCmdHideCommandMenuServer: Unknown command.
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+No object found
+Could not register dust emitter for class: KittyCat
+Could not register dust emitter for class: KittyCat
+Could not register dust emitter for class: KittyCat
+Mapping string: Kitty to index: 16
+Could not register dust emitter for class: KittyCat2
+Could not register dust emitter for class: KittyCat2
+Could not register dust emitter for class: KittyCat2
+Mapping string: Kitty2 to index: 17
+Could not register dust emitter for class: ToyCar
+Could not register dust emitter for class: ToyCar
+Could not register dust emitter for class: ToyCar
+Mapping string: Toy to index: 18
+Mapping string: DisMountVehicle to index: 4
+Mapping string: DismountVehicle to index: 5
+Popping action map vehicleDriverMap
+Pushing action map moveMap
+Mapping string: activateCommandMenu to index: 19
+clientCmdactivateCommandMenu: Unknown command.
+Found a vehicle: 1540
+This vehicle has 1 mount points.
+Mounting vehicle in seat 0
+Popping action map moveMap
+Pushing action map vehicleDriverMap
+clientCmdHideCommandMenuServer: Unknown command.
+Popping action map vehicleDriverMap
+Pushing action map moveMap
+clientCmdactivateCommandMenu: Unknown command.
+my.game/client/serverConnection.cs (153): Unable to find object: 'PlayerListGui' attempting to call function 'clear'
+*** ENDING MISSION
+CDROP: 1558 
+Exporting server prefs...
+creating path common/prefs.cs
+Exporting client prefs
+creating path my.game/client/prefs.cs
+creating path my.game/client/
+Exporting client config
+creating path my.game/client/config.cs
+creating path my.game/client/
+Exporting server prefs
+creating path my.game/server/prefs.cs
+creating path my.game/server/
+creating path my.game/server/banlist.cs
+creating path my.game/server/
+Exporting client prefs
+creating path common/client/prefs.cs
+creating path common/client/
+Exporting server prefs
+creating path common/server/prefs.cs
+creating path common/server/
+creating path common/server/banlist.cs
+creating path common/server/
+Shutting down the OpenGL display device...
+Cleaning up the display device...
+Killing the texture manager...
+Clearing the current AGL context...
+Clearing the current drawable...
+Deleting the rendering context...
+Destroying the window...
